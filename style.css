@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background:palegoldenrod;
+    width:  10em;
+    border-top-color: blue;
+    border-top-width: 1em;
+}
+section{
+    display:inline-flex;
+    flex-wrap: wrap;
+    text-overflow: ellipsis;
+    border: solid black 5px;
+    /* display: inline-table; */
+    background-color: blueviolet;
+}
+
+li{
+    text-decoration: wavy;
+    text-align:justify;
+    color: yellow;
+}
+/* ul li{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+    display:inline-flex;
+} */
